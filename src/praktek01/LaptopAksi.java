@@ -22,6 +22,13 @@ public class LaptopAksi {
         Ryan.Procesor="1,8 GHz";
         Ryan.HDD="500 GB";
         
+        System.out.println("laptop Izuh");
+        Izuh.Merek="ACER";
+        Izuh.UkuranLayar="16 Inc";
+        Izuh.Ram="4 GB";
+        Izuh.Procesor="2,4 GHz";
+        Izuh.HDD="1 TB";
+        
         
         
         
