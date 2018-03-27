@@ -17,11 +17,11 @@ public class Laptop {
     String HDD;
     
     void infoLaptop(){
-        System.out.println("Merek      ="+Merek);
-        System.out.println("UkuranLayar="+UkuranLayar);
-        System.out.println("Ram        ="+Ram);
-        System.out.println("Procesor   ="+Procesor);
-        System.out.println("HDD        ="+HDD);
+        System.out.println("Merek      :"+Merek);
+        System.out.println("UkuranLayar:"+UkuranLayar);
+        System.out.println("Ram        :"+Ram);
+        System.out.println("Procesor   :"+Procesor);
+        System.out.println("HDD        :"+HDD);
     }
     
 }

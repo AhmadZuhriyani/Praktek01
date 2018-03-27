@@ -21,6 +21,7 @@ public class LaptopAksi {
         Ryan.Ram="2 GB";
         Ryan.Procesor="1,8 GHz";
         Ryan.HDD="500 GB";
+            Ryan.infoLaptop();
         
         System.out.println("laptop Izuh");
         Izuh.Merek="ACER";
@@ -28,6 +29,7 @@ public class LaptopAksi {
         Izuh.Ram="4 GB";
         Izuh.Procesor="2,4 GHz";
         Izuh.HDD="1 TB";
+            Izuh.infoLaptop();
         
         System.out.println("laptop Ahmad");
         Ahmad.Merek="LENOVO";
@@ -35,8 +37,6 @@ public class LaptopAksi {
         Ahmad.Ram="2 GB";
         Ahmad.Procesor="2,0 GHz";
         Ahmad.HDD="320 GB";
-        
-        
-        
+            Ahmad.infoLaptop();            
     }
 }
