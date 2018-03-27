@@ -29,6 +29,12 @@ public class LaptopAksi {
         Izuh.Procesor="2,4 GHz";
         Izuh.HDD="1 TB";
         
+        System.out.println("laptop Ahmad");
+        Ahmad.Merek="LENOVO";
+        Ahmad.UkuranLayar="14 Inc";
+        Ahmad.Ram="2 GB";
+        Ahmad.Procesor="2,0 GHz";
+        Ahmad.HDD="320 GB";
         
         
         
