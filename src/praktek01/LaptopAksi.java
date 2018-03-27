@@ -11,6 +11,19 @@ package praktek01;
  */
 public class LaptopAksi {
     public static void main(String[] args) {
+        Laptop Ryan = new Laptop();
+        Laptop Izuh = new Laptop();
+        Laptop Ahmad = new Laptop();
+        
+        System.out.println("laptop Ryan");
+        Ryan.Merek="ASUS";
+        Ryan.UkuranLayar="14 Inc";
+        Ryan.Ram="2 GB";
+        Ryan.Procesor="1,8 GHz";
+        Ryan.HDD="500 GB";
+        
+        
+        
         
     }
 }
