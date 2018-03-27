@@ -16,7 +16,7 @@ public class Laptop {
     String Procesor;
     String HDD;
     
-    void infoMahasiswa(){
+    void infoLaptop(){
         System.out.println("Merek      ="+Merek);
         System.out.println("UkuranLayar="+UkuranLayar);
         System.out.println("Ram        ="+Ram);
