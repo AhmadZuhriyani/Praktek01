@@ -16,13 +16,13 @@ public class LaptopAksi {
         Laptop Ahmad = new Laptop();
         
         System.out.println("laptop Ryan");
-        Ryan.Merek="ASUS";
+        Ryan.Merek="ASUS"; 
         Ryan.UkuranLayar="14 Inc";
         Ryan.Ram="2 GB";
         Ryan.Procesor="1,8 GHz";
         Ryan.HDD="500 GB";
             Ryan.infoLaptop();
-        
+       
         System.out.println("laptop Izuh");
         Izuh.Merek="ACER";
         Izuh.UkuranLayar="16 Inc";

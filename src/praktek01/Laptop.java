@@ -14,7 +14,7 @@ public class Laptop {
     String UkuranLayar;
     String Ram;
     String Procesor;
-    String HDD;
+    String HDD; 
     
     void infoLaptop(){
         System.out.println("Merek      :"+Merek);
